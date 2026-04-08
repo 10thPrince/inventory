@@ -107,8 +107,8 @@ inventory-mvp/
 ## **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/<your-username>/inventory-mvp.git
-cd inventory-mvp
+git clone https://github.com/10thPrince/inventory.git
+cd inventory
 ```
 
 ---
